@@ -1,0 +1,1 @@
+g++ tw_financial_statement.cpp -o tw_financial_statement -I/root/boost -I/root/boost/libs/beast -L/root/boost/stage/lib -lboost_system -lboost_thread -lpthread -lcrypto -lssl
